@@ -1,4 +1,3 @@
-![image](https://github.com/notnomes/notnomes/assets/118110408/d832467c-aca5-4d3d-bea6-955b792d8bb3)
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
