@@ -2,7 +2,7 @@
  
  🔭 I’m currently working on **[Cash app](https://github.com/notnomes/Uour)**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Brainfuck**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
