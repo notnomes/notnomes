@@ -11,7 +11,6 @@
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- ⚡ Fun fact **Im 16 years old from <img height="15px" src="https://cdn.discordapp.com/attachments/1122044617743933510/1145485424068931624/flag-uzbekistan_1f1fa-1f1ff.png">
-**
+ ⚡ Fun fact **Im 16 years old from <img height="15px" src="https://cdn.discordapp.com/attachments/1122044617743933510/1145485424068931624/flag-uzbekistan_1f1fa-1f1ff.png">**
  
  </div>
