@@ -3,7 +3,7 @@
 
 ###
 
-<img align="center" src="https://cdn.discordapp.com/attachments/1036645425236676660/1145475503520763944/expanded.jpg">
+<img align="center" src="https://cdn.discordapp.com/attachments/1122044617743933510/1145477118478778388/expanded_2.jpg">
 
 <p align="center">📦 My name is notnome<br> 🏆 and I'm a FullStack dev,<br>🎉 from Uzbekistan</p>
 
