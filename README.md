@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Hey+There!+%F0%9F%96%90;im+notnome+%F0%9F%99%83;im+Full+Stack+dev+%F0%9F%8E%89)](https://git.io/typing-svg)
+###
+
 <div align="center">
  
  🔭 I’m currently working on **[Cash app](https://github.com/notnomes/Uour)**
