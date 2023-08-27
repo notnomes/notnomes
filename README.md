@@ -1,6 +1,6 @@
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **[a chat app](https://github.com/notnomes/Uour)**
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
 
