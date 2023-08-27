@@ -4,7 +4,6 @@
 ###
 
 <p align="center">📦 My name is notnome<br> 🏆 and I'm a FullStack dev,<br>🎉 from Uzbekistan</p>
-###
 
 <h2 align="center">About me</h2>
 
