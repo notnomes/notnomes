@@ -1,3 +1,5 @@
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6d/45/0c/6d450c1497b2cda38f30a427848f11a3.gif")
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
