@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hey 👋 What's up?</h1>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="hello">
 
 ###
 
